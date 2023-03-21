@@ -1,0 +1,3 @@
+int16 DC_motor_command
+int16 servo_command
+bool servo_type
